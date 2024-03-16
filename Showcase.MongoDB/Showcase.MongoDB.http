@@ -1,0 +1,6 @@
+@Showcase.MongoDB_HostAddress = http://localhost:5237
+
+GET {{Showcase.MongoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
